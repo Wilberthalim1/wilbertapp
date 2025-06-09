@@ -44,22 +44,19 @@
             android:id="@+id/btnTambah"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Tambah"
-            android:backgroundTint="@color/purple_200"/>
+            android:text="Tambah" />
 
         <Button
             android:id="@+id/btnKali"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Kali"
-            android:backgroundTint="@color/purple_200"/>
+            android:text="Kali" />
 
         <Button
             android:id="@+id/btnBagi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Bagi"
-            android:backgroundTint="@color/purple_200"/>
+            android:text="Bagi" />
 
         <TextView
             android:id="@+id/textView4"
